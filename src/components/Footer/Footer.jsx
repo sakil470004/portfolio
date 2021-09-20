@@ -42,6 +42,7 @@ const Footer = () => {
           <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">
             Jacobo Martínez
           </a>
+          .Site was created by Mynul.
         </p>
 
         {isEnabled && <GithubButtons />}
